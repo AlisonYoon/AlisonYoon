@@ -11,7 +11,7 @@
 
 **Past**
 
-* I've worked for different companies/clients as a freelance. One of the companies was an WordPress agency. <br />
+* I've worked for different companies/clients as a freelance.<br />
 * I've worked with PHP(Laravel) in my first job as a fullstack engineer. <br />
 * I was UI/UX designer before I became a developer. I've shared my story [here.](https://twitter.com/hackajob_co/status/1485915433266036736?s=20&t=GfsHSwI0SXwjs3STxHu_4w)
 
