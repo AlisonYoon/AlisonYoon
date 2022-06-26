@@ -10,7 +10,7 @@
 <br />
 
 **Present 🔭**
-* I will be giving a talk about <i><ins>Introducing Design System to Multinational Web Apps</ins></i> at [React Summit 2022](https://twitter.com/ReactSummit/status/1519934514541211648?s=20&t=hQP70U-cPAuJ5EccKA0WAg) 
+* I gave a talk about <i><ins>Introducing Design System to Multinational Web Apps</ins></i> at [React Summit 2022](https://twitter.com/ReactSummit/status/1519934514541211648?s=20&t=hQP70U-cPAuJ5EccKA0WAg) 
 * I will be giving a talk about <i><ins>Building a React App that Controls a Device with OAuth2</ins></i> at [React Alicante 2022](https://twitter.com/ReactAlicante/status/1522151364821987329?s=20&t=slUAXZ8-iAGxF9MgyBUDLA)
 
 <br />
