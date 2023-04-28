@@ -11,7 +11,7 @@
 <br />
 <br />
 
-**Present 🔭**
+**Talks 🔭**
 * I gave a talk about <i><ins>Introducing Design System to Multinational Web Apps</ins></i> at [React Summit 2022](https://portal.gitnation.org/contents/introducing-design-system-to-multinational-web-apps) 
 * I gave a talk about <i><ins>Building a React App that Controls a Device with OAuth2</ins></i> at [React India 2022](https://youtu.be/SUk0hF-xe5A?t=14819)
 * I gave a talk about <i><ins>Building a React App that Controls a Device with OAuth2</ins></i> at [React Alicante 2022](https://www.youtube.com/watch?v=WZeylPb0bNs)
