@@ -4,8 +4,6 @@
 
 💻  I'm a frontend developer at [Octopus Energy](https://octopus.energy/)
 
-🇰🇷  Korean translation lead at [freeCodeCamp](https://www.freecodecamp.org/)
-
 📫  You can reach me on Twitter [@aliyooncreative](https://twitter.com/aliyooncreative)
 
 <br />
